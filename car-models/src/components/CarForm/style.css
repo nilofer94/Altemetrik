@@ -1,0 +1,11 @@
+.form-container{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.form-input{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin: 20px;
+}
